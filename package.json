@@ -1,6 +1,7 @@
 {
-  "name": "phuc",
-  "displayName": "helloword",
+  "name": "phucvo",
+  "displayName": "Express generator function",
+  "publisher": "Congphuc",
   "description": "",
   "version": "0.0.1",
   "engines": {
